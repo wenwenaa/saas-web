@@ -1,0 +1,118 @@
+.el-button--tz-outline {
+  color: #179CFF !important;
+  border-color: #179CFF !important;
+}
+
+.el-button--tz-warning-outline {
+  color: #FF903E !important;
+  border-color: #FF903E !important;
+  background-color: #FFFFFF !important;
+}
+
+.el-icon-d-arrow-right,
+.el-icon-d-arrow-left {
+  transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+}
+
+.tz-search-submit {
+  color: #7CA870 !important;
+  border-color: #fff !important;
+  background-color: #E5EEE2 !important;
+}
+.tz-search-submit:hover {
+  opacity: 0.8;
+}
+.tz-search-submit-plain {
+  color: #7CA870 !important;
+  border-color: #7CA870 !important;
+  background-color: #fff !important;
+}
+.tz-search-submit-plain:hover {
+  opacity: 0.8;
+}
+
+.tz-search-transparent {
+  color: #7CA870 !important;
+  border-color: #7CA870 !important;
+  background-color: #fff !important;
+}
+.tz-search-transparent {
+  opacity: 0.8;
+}
+
+
+.tz-search-clear {
+  color: #D2D2D2 !important;
+}
+.tz-search-clear:hover {
+  opacity: 0.8;
+}
+
+
+.tz-btn-add {
+  color: #E9A763 !important;
+  border-color: #fff !important;
+  background-color: #FBEDE0 !important;
+}
+.tz-btn-add:hover {
+  opacity: 0.8;
+}
+
+.tz-btn-print {
+  color: #E9A763 !important;
+  border-color: #fff !important;
+  background-color: #FBEDE0 !important;
+}
+.tz-btn-print:hover {
+  opacity: 0.8;
+}
+
+.tz-btn-submit {
+  color: #909399 !important;
+  border-color: #fff !important;
+  background-color: #F5F7FA !important;
+}
+.tz-btn-submit:hover {
+  opacity: 0.8;
+}
+
+
+.tz-btn-save {
+  color: #999 !important;
+  border-color: #fff !important;
+  background-color: #F5F7FA !important;
+}
+.tz-btn-save:hover {
+  opacity: 0.8;
+}
+.tz-staff-submit{
+  color:#fff;
+  background:#7CA870 !important;
+  border-color:#7CA870 !important;
+}
+.tz-staff-submit:hover {
+  opacity: 0.8;
+}
+.tz-staff-cancel:focus,.tz-staff-cancel:hover{
+   color:#7CA870 !important;
+   border-color:rgba(124,168,112,0.2) !important;
+   background-color:rgba(124,168,112,0.1)!important;
+}
+
+.radio .el-radio__input.is-checked .el-radio__inner {
+  border-color: #7ca870;
+  background: #7ca870;
+}
+.radio .el-radio__input.is-checked + .el-radio__label {
+  color: #7ca870;
+}
+
+.checkbox .el-checkbox__input.is-checked .el-checkbox__inner {
+  border-color: #7ca870;
+  background: #7ca870;
+}
+.checkbox .el-checkbox__input.is-checked + .el-checkbox__label {
+  color: #7ca870;
+}
